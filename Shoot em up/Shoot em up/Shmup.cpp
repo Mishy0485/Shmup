@@ -1,18 +1,19 @@
 #include <SFML/Graphics.hpp>
+using namespace sf;
 
 int main() { 
     // Création de la fenêtre
-    sf::RenderWindow window(VideoMode(800, 600), "Fenêtre SFML");
+    RenderWindow window(VideoMode(800, 600), "Fenêtre SFML");
 
     // Création d'un cercle
-    sf::CircleShape shape(50); // Rayon de 50 pixels
-    shape.setFillColor(sf::Color::Green);
+    CircleShape shape(50); // Rayon de 50 pixels
+    shape.setFillColor(Color::Green);
 
     // Boucle principale
     while (window.isOpen()) {
-        sf::Event event;
+        Event event;
         while (window.pollEvent(event)) {
-            if (event.type == sf::Event::Closed)
+            if (event.type == Event::Closed)
                 window.close(); // Fermer la fenêtre
         }
 
