@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gtsco\\source\\repos\\Mishy0485\\Shmup\\Shoot em up\\",
+  "WorkspaceRootPath": "C:\\Users\\ayite\\Documents\\GitHub\\Shmup\\Shoot em up\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70DD87BE-4D36-4B9B-B68F-12072E3ABDBB}|Shoot em up\\Shoot em up.vcxproj|C:\\Users\\gtsco\\source\\repos\\Mishy0485\\Shmup\\Shoot em up\\Shoot em up\\Shmup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{70DD87BE-4D36-4B9B-B68F-12072E3ABDBB}|Shoot em up\\Shoot em up.vcxproj|C:\\Users\\ayite\\Documents\\GitHub\\Shmup\\Shoot em up\\Shoot em up\\Shmup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{70DD87BE-4D36-4B9B-B68F-12072E3ABDBB}|Shoot em up\\Shoot em up.vcxproj|solutionrelative:Shoot em up\\Shmup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Shmup.cpp",
-              "DocumentMoniker": "C:\\Users\\gtsco\\source\\repos\\Mishy0485\\Shmup\\Shoot em up\\Shoot em up\\Shmup.cpp",
+              "DocumentMoniker": "C:\\Users\\ayite\\Documents\\GitHub\\Shmup\\Shoot em up\\Shoot em up\\Shmup.cpp",
               "RelativeDocumentMoniker": "Shoot em up\\Shmup.cpp",
-              "ToolTip": "C:\\Users\\gtsco\\source\\repos\\Mishy0485\\Shmup\\Shoot em up\\Shoot em up\\Shmup.cpp",
+              "ToolTip": "C:\\Users\\ayite\\Documents\\GitHub\\Shmup\\Shoot em up\\Shoot em up\\Shmup.cpp",
               "RelativeToolTip": "Shoot em up\\Shmup.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T09:26:14.821Z",
               "EditorCaption": ""

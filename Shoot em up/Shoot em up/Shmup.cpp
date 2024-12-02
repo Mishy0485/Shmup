@@ -1,8 +1,8 @@
 #include <SFML/Graphics.hpp>
 
-int main() {
+int main() { 
     // Création de la fenêtre
-    sf::RenderWindow window(sf::VideoMode(800, 600), "Fenêtre SFML");
+    sf::RenderWindow window(VideoMode(800, 600), "Fenêtre SFML");
 
     // Création d'un cercle
     sf::CircleShape shape(50); // Rayon de 50 pixels
