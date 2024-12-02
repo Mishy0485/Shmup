@@ -1,9 +1,17 @@
 #include <SFML/Graphics.hpp>
 using namespace sf;
+#include<iostream>
+
 
 // texture back
 
 // texture avion principal
+
+Texture plane;
+plane.loadFromFile("plane.png");
+
+Sprite Avion;
+Avion.setTexture(plane);
 
 // texture ennemis1
 // texture ennemis2
